@@ -1,12 +1,9 @@
 # LeetCode Profile
 
-[![LeetCode Rating](https://leetcode-badge-api.herokuapp.com/api/user/sajjadsiam13)](https://leetcode.com/sajjadsiam13)
-
 ## About Me
 
 Hello! I'm [Sajjad Siam](https://leetcode.com/sajjadsiam13), a passionate competitive programmer. I enjoy solving algorithmic problems and participating in coding contests on platforms like LeetCode.
 
-- **LeetCode Rating:** [![LeetCode Rating](https://leetcode-badge-api.herokuapp.com/api/user/sajjadsiam13)](https://leetcode.com/sajjadsiam13)
 - **Country:** Bangladesh
 
 ## My Achievements
