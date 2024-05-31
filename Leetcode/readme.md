@@ -13,7 +13,7 @@ Hello! I'm [Sajjad Siam](https://leetcode.com/sajjadsiam13), a passionate compet
 
 ## Programming Languages
 
-- **Preferred Language:** C++ (I mainly use C++ for competitive programming due to its speed and versatility).
+- **Preferred Language:** Python (I mainly use Python for competitive programming due to its speed and versatility).
 - **Other Languages:** Occasionally use Python for problem-solving on platforms that support Python.
 
 ## My LeetCode Handle
